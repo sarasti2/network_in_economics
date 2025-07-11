@@ -8,8 +8,8 @@ Student's number,Student's name,Student's gender,Student's type,,,1,2,3,4,5,6,7,
 7,JOSUE DAVID RAMOS TORRES,Male,Master's student,,7,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
 8,JUAN FELIPE AGUDELO RIOS,Male,Master's student,,8,0,0,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
 9,MARIA ALEJANDRA MONTOYA CAMARGO,Female,Master's student,,9,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
-10,CARLOS ANDRES CRUZ PE—A,Male,Undergraduate student,,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
-11,JULIAN CAMILO FANDI—O AYALA,Male,Undergraduate student,,11,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,CARLOS ANDRES CRUZ PE√ëA,Male,Undergraduate student,,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+11,JULIAN CAMILO FANDI√ëO AYALA,Male,Undergraduate student,,11,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 12,JUAN FELIPE GAVIRIA CAMPO,Male,Master's student,,12,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 13,SANTIAGO OSORIO GOMEZ,Male,Undergraduate student,,13,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 14,SOFIA ESPINOSA DAVID,Female,Undergraduate student,,14,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -17,7 +17,7 @@ Student's number,Student's name,Student's gender,Student's type,,,1,2,3,4,5,6,7,
 16,SEBASTIAN SOHED DE LA ROSA IZQUIERDO,Male,Undergraduate student,,16,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 17,MARIA ALEJANDRA PAEZ BUCHELI,Female,Master's student,,17,0,0,1,1,0,0,1,0,1,1,0,0,1,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 18,GODWIN ZULUAGA GARCIA,Male,Undergraduate student,,18,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
-19,MIRANDA VALENTINA NI—O RENTERIA,Female,Undergraduate student,,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+19,MIRANDA VALENTINA NI√ëO RENTERIA,Female,Undergraduate student,,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 20,SANTIAGO TRIANA MARIN,Male,Undergraduate student,,20,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
 21,NIXON DANIEL VERA GARCIA,Male,Undergraduate student,,21,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 22,SOFIA VILLAMIZAR PULIDO,Female,Undergraduate student,,22,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -32,6 +32,6 @@ Student's number,Student's name,Student's gender,Student's type,,,1,2,3,4,5,6,7,
 31,GABRIEL ESTEBAN CALDERON CARDOZO,Male,Undergraduate student,,31,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
 32,ALEJANDRA PRAD0 CUBILLOS,Female,Undergraduate student,,32,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
 33,MANUEL HERNANDO NOVA FUENTES,Male,Master's student,,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
-34,ALEJANDRO N⁄—EZ ARROYO,Male,Master's student,,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-35,MARÕA PAULA MURCIAL CEDIEL,Female,Master's student,,35,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+34,ALEJANDRO N√ö√ëEZ ARROYO,Male,Master's student,,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,MAR√çA PAULA MURCIAL CEDIEL,Female,Master's student,,35,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
 36,GUSTAVO ADOLFO CASTILLO ALVAREZ,Male,Master's student,,36,0,1,1,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
